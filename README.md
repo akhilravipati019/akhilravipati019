@@ -12,6 +12,6 @@ Currently learning, building projects, and improving my problem-solving skills.
 - Problem Solving
 
 ### 🛠️ Tech
-Python · C++ · SQL · Git · GitHub · PyTorch · TensorFlow
+C++ · Python · JavaScript · SQL  · PyTorch · TensorFlow · HTML/CSS · ReactJS · Git · GitHub
 
 Always learning. Always building. 🚀
